@@ -1,0 +1,25 @@
+body {
+    font-family: Poppins,sans-serif;
+    font-weight: 400;
+    font-size: .7em;
+    word-wrap: break-word;
+    -webkit-print-color-adjust: exact;
+    background-color: #f5f5f5;
+}
+
+.titre
+ {
+    text-decoration: underline overline solid #e4087e;
+    
+     letter-spacing: 3px;
+    
+    
+}
+
+.tarte
+ {
+    background: linear-gradient(to right, #000, #000);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+}
+
